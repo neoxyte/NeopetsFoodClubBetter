@@ -1,0 +1,8 @@
+This is a work in progress!
+Do not use!
+
+TODO:
+-Provide better exception handling
+-Provide better commenting / docstrings and general documentation
+-Handle passwords and password hashing better
+-Implement a clean and nice looking GUI
