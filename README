@@ -1,5 +1,10 @@
-This is a work in progress!
-Do not use!
+NeopetsFoodClubBetter
+=====================
+
+A script that automatically places bets on the Neopets Food Club Game. Bets are automatically scraped off of neopets.com/~myfoodclubbets
+
+This is a work in progress. Use at your own risk as this code is FAR
+from complete.
 
 TODO:
 -Provide better exception handling
